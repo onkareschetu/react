@@ -1,0 +1,388 @@
+[2020-08-19T17:07:51.454] [INFO] default - server on port 8097 (development)
+[2020-08-19T17:18:21.282] [INFO] default - server on port 8097 (development)
+[2020-08-19T17:19:24.965] [INFO] default - server on port 8097 (development)
+[2020-08-19T17:22:24.179] [INFO] default - -------------------------------------
+[2020-08-19T17:22:24.181] [INFO] default - /v1/auth/login
+[2020-08-19T17:22:24.182] [INFO] default - {}
+[2020-08-19T17:22:24.182] [INFO] default - {}
+[2020-08-19T17:22:24.183] [INFO] default - {"email":"admin@groceryproduct.com","password":"admin123"}
+[2020-08-19T17:22:24.183] [INFO] default - -------------------------------------
+[2020-08-19T17:22:24.267] [INFO] default - [0mGET /v1/auth/login [33m404[0m 64.347 ms - 152[0m
+[2020-08-19T17:25:38.123] [INFO] default - server on port 8097 (development)
+[2020-08-19T17:25:51.774] [INFO] default - -------------------------------------
+[2020-08-19T17:25:51.776] [INFO] default - /v1/auth/login
+[2020-08-19T17:25:51.777] [INFO] default - {}
+[2020-08-19T17:25:51.778] [INFO] default - {}
+[2020-08-19T17:25:51.778] [INFO] default - {"email":"admin@groceryproduct.com","password":"admin123"}
+[2020-08-19T17:25:51.778] [INFO] default - -------------------------------------
+[2020-08-19T17:25:51.793] [INFO] default - [0mGET /v1/auth/login [33m404[0m 14.802 ms - 152[0m
+[2020-08-19T17:26:09.212] [INFO] default - -------------------------------------
+[2020-08-19T17:26:09.212] [INFO] default - /v1/auth/login
+[2020-08-19T17:26:09.212] [INFO] default - {}
+[2020-08-19T17:26:09.212] [INFO] default - {}
+[2020-08-19T17:26:09.212] [INFO] default - {"email":"admin@groceryproduct.com","password":"admin123"}
+[2020-08-19T17:26:09.212] [INFO] default - -------------------------------------
+[2020-08-19T17:26:19.109] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 9895.297 ms - 18[0m
+[2020-08-19T17:27:34.948] [INFO] default - server on port 8097 (development)
+[2020-08-19T17:28:43.574] [INFO] default - -------------------------------------
+[2020-08-19T17:28:43.576] [INFO] default - /v1/auth/login
+[2020-08-19T17:28:43.576] [INFO] default - {}
+[2020-08-19T17:28:43.577] [INFO] default - {}
+[2020-08-19T17:28:43.577] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-19T17:28:43.578] [INFO] default - -------------------------------------
+[2020-08-19T17:29:10.107] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 26531.924 ms - 270[0m
+[2020-08-19T18:08:29.688] [INFO] default - server on port 8097 (development)
+[2020-08-29T20:21:40.124] [INFO] default - server on port 8097 (development)
+[2020-08-29T20:27:23.021] [INFO] default - server on port 8097 (development)
+[2020-08-29T20:28:00.598] [INFO] default - server on port 8097 (development)
+[2020-08-29T20:29:52.568] [INFO] default - server on port 8097 (development)
+[2020-08-29T20:35:18.049] [INFO] default - server on port 8097 (development)
+[2020-08-29T20:44:00.649] [INFO] default - server on port 8097 (development)
+[2020-08-29T20:48:32.282] [INFO] default - server on port 8097 (development)
+[2020-08-29T20:49:01.994] [INFO] default - -------------------------------------
+[2020-08-29T20:49:01.996] [INFO] default - /api/auth/login
+[2020-08-29T20:49:01.997] [INFO] default - {}
+[2020-08-29T20:49:01.998] [INFO] default - {}
+[2020-08-29T20:49:01.998] [INFO] default - {"name":"name","shopName":"shop","status":"status"}
+[2020-08-29T20:49:01.999] [INFO] default - -------------------------------------
+[2020-08-29T20:49:02.016] [INFO] default - [0mGET /api/auth/login [33m404[0m 15.733 ms - 153[0m
+[2020-08-29T20:50:26.408] [INFO] default - -------------------------------------
+[2020-08-29T20:50:26.409] [INFO] default - /api/auth/login
+[2020-08-29T20:50:26.410] [INFO] default - {}
+[2020-08-29T20:50:26.410] [INFO] default - {}
+[2020-08-29T20:50:26.411] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T20:50:26.411] [INFO] default - -------------------------------------
+[2020-08-29T20:50:26.414] [INFO] default - [0mPOST /api/auth/login [33m404[0m 4.168 ms - 154[0m
+[2020-08-29T20:51:20.266] [INFO] default - -------------------------------------
+[2020-08-29T20:51:20.267] [INFO] default - /v1/api/auth/login
+[2020-08-29T20:51:20.267] [INFO] default - {}
+[2020-08-29T20:51:20.268] [INFO] default - {}
+[2020-08-29T20:51:20.268] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T20:51:20.269] [INFO] default - -------------------------------------
+[2020-08-29T20:51:20.290] [INFO] default - [0mPOST /v1/api/auth/login [33m404[0m 22.772 ms - 157[0m
+[2020-08-29T20:51:44.650] [INFO] default - -------------------------------------
+[2020-08-29T20:51:44.650] [INFO] default - /v1/auth/login
+[2020-08-29T20:51:44.651] [INFO] default - {}
+[2020-08-29T20:51:44.651] [INFO] default - {}
+[2020-08-29T20:51:44.652] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T20:51:44.652] [INFO] default - -------------------------------------
+[2020-08-29T20:51:45.593] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 940.494 ms - 270[0m
+[2020-08-29T20:58:18.306] [INFO] default - server on port 8097 (development)
+[2020-08-29T21:02:22.002] [INFO] default - server on port 8097 (development)
+[2020-08-29T21:43:09.224] [INFO] default - -------------------------------------
+[2020-08-29T21:43:09.256] [INFO] default - /v1/auth/login
+[2020-08-29T21:43:09.257] [INFO] default - {}
+[2020-08-29T21:43:09.257] [INFO] default - {}
+[2020-08-29T21:43:09.258] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T21:43:09.258] [INFO] default - -------------------------------------
+[2020-08-29T21:43:17.511] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 8180.910 ms - 270[0m
+[2020-08-29T21:50:29.469] [INFO] default - -------------------------------------
+[2020-08-29T21:50:29.488] [INFO] default - /v1/auth/login
+[2020-08-29T21:50:29.489] [INFO] default - {}
+[2020-08-29T21:50:29.490] [INFO] default - {}
+[2020-08-29T21:50:29.491] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T21:50:29.491] [INFO] default - -------------------------------------
+[2020-08-29T21:50:31.112] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 1706.657 ms - 270[0m
+[2020-08-29T21:51:12.891] [INFO] default - -------------------------------------
+[2020-08-29T21:51:12.892] [INFO] default - /v1/auth/login
+[2020-08-29T21:51:12.893] [INFO] default - {}
+[2020-08-29T21:51:12.893] [INFO] default - {}
+[2020-08-29T21:51:12.894] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T21:51:12.894] [INFO] default - -------------------------------------
+[2020-08-29T21:51:14.744] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 1847.275 ms - 270[0m
+[2020-08-29T21:54:23.662] [INFO] default - -------------------------------------
+[2020-08-29T21:54:23.662] [INFO] default - /v1/auth/login
+[2020-08-29T21:54:23.663] [INFO] default - {}
+[2020-08-29T21:54:23.664] [INFO] default - {}
+[2020-08-29T21:54:23.672] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T21:54:23.672] [INFO] default - -------------------------------------
+[2020-08-29T21:54:24.095] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 356.451 ms - 270[0m
+[2020-08-29T21:55:49.757] [INFO] default - -------------------------------------
+[2020-08-29T21:55:49.758] [INFO] default - /v1/auth/login
+[2020-08-29T21:55:49.758] [INFO] default - {}
+[2020-08-29T21:55:49.758] [INFO] default - {}
+[2020-08-29T21:55:49.759] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T21:55:49.760] [INFO] default - -------------------------------------
+[2020-08-29T21:55:50.897] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 1138.908 ms - 270[0m
+[2020-08-29T21:58:42.292] [INFO] default - -------------------------------------
+[2020-08-29T21:58:42.293] [INFO] default - /v1/auth/login
+[2020-08-29T21:58:42.306] [INFO] default - {}
+[2020-08-29T21:58:42.321] [INFO] default - {}
+[2020-08-29T21:58:42.322] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-29T21:58:42.322] [INFO] default - -------------------------------------
+[2020-08-29T21:58:43.869] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 1575.821 ms - 270[0m
+[2020-08-30T11:11:00.469] [INFO] default - server on port 8097 (development)
+[2020-08-31T16:04:05.518] [INFO] default - server on port 8097 (development)
+[2020-08-31T16:14:01.137] [INFO] default - -------------------------------------
+[2020-08-31T16:14:01.137] [INFO] default - /v1/auth/login
+[2020-08-31T16:14:01.138] [INFO] default - {}
+[2020-08-31T16:14:01.138] [INFO] default - {}
+[2020-08-31T16:14:01.138] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123","client_secret":"11F6DC8132498B4799EDF11E34B1E8E088C3400736029A3421DFEF79999F4599"}
+[2020-08-31T16:14:01.138] [INFO] default - -------------------------------------
+[2020-08-31T16:14:02.748] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 1603.790 ms - 18[0m
+[2020-08-31T16:14:17.129] [INFO] default - -------------------------------------
+[2020-08-31T16:14:17.130] [INFO] default - /v1/auth/login
+[2020-08-31T16:14:17.130] [INFO] default - {}
+[2020-08-31T16:14:17.130] [INFO] default - {}
+[2020-08-31T16:14:17.130] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:14:17.130] [INFO] default - -------------------------------------
+[2020-08-31T16:14:17.140] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 10.005 ms - 18[0m
+[2020-08-31T16:15:32.308] [INFO] default - -------------------------------------
+[2020-08-31T16:15:32.308] [INFO] default - /v1/auth/login
+[2020-08-31T16:15:32.308] [INFO] default - {}
+[2020-08-31T16:15:32.308] [INFO] default - {}
+[2020-08-31T16:15:32.308] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:15:32.308] [INFO] default - -------------------------------------
+[2020-08-31T16:15:32.310] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 2.198 ms - 18[0m
+[2020-08-31T16:17:22.133] [INFO] default - -------------------------------------
+[2020-08-31T16:17:22.133] [INFO] default - /v1/auth/login
+[2020-08-31T16:17:22.133] [INFO] default - {}
+[2020-08-31T16:17:22.133] [INFO] default - {}
+[2020-08-31T16:17:22.133] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:17:22.133] [INFO] default - -------------------------------------
+[2020-08-31T16:17:22.272] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 138.988 ms - 270[0m
+[2020-08-31T16:27:19.224] [INFO] default - -------------------------------------
+[2020-08-31T16:27:19.225] [INFO] default - /v1/auth/login
+[2020-08-31T16:27:19.225] [INFO] default - {}
+[2020-08-31T16:27:19.225] [INFO] default - {}
+[2020-08-31T16:27:19.225] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-08-31T16:27:19.225] [INFO] default - -------------------------------------
+[2020-08-31T16:27:19.271] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 46.450 ms - 18[0m
+[2020-08-31T16:27:37.249] [INFO] default - -------------------------------------
+[2020-08-31T16:27:37.249] [INFO] default - /v1/auth/login
+[2020-08-31T16:27:37.249] [INFO] default - {}
+[2020-08-31T16:27:37.249] [INFO] default - {}
+[2020-08-31T16:27:37.249] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:27:37.249] [INFO] default - -------------------------------------
+[2020-08-31T16:27:37.444] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 194.251 ms - 270[0m
+[2020-08-31T16:29:11.878] [INFO] default - -------------------------------------
+[2020-08-31T16:29:11.878] [INFO] default - /v1/auth/login
+[2020-08-31T16:29:11.878] [INFO] default - {}
+[2020-08-31T16:29:11.878] [INFO] default - {}
+[2020-08-31T16:29:11.878] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:29:11.878] [INFO] default - -------------------------------------
+[2020-08-31T16:29:11.933] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 55.779 ms - 270[0m
+[2020-08-31T16:29:30.764] [INFO] default - -------------------------------------
+[2020-08-31T16:29:30.764] [INFO] default - /v1/auth/login
+[2020-08-31T16:29:30.764] [INFO] default - {}
+[2020-08-31T16:29:30.764] [INFO] default - {}
+[2020-08-31T16:29:30.765] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:29:30.765] [INFO] default - -------------------------------------
+[2020-08-31T16:29:30.921] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 156.210 ms - 270[0m
+[2020-08-31T16:31:40.562] [INFO] default - -------------------------------------
+[2020-08-31T16:31:40.562] [INFO] default - /v1/auth/login
+[2020-08-31T16:31:40.562] [INFO] default - {}
+[2020-08-31T16:31:40.562] [INFO] default - {}
+[2020-08-31T16:31:40.562] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:31:40.562] [INFO] default - -------------------------------------
+[2020-08-31T16:31:40.646] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 84.379 ms - 270[0m
+[2020-08-31T16:32:35.809] [INFO] default - -------------------------------------
+[2020-08-31T16:32:35.809] [INFO] default - /v1/auth/login
+[2020-08-31T16:32:35.809] [INFO] default - {}
+[2020-08-31T16:32:35.809] [INFO] default - {}
+[2020-08-31T16:32:35.809] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:32:35.809] [INFO] default - -------------------------------------
+[2020-08-31T16:32:35.868] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 58.713 ms - 270[0m
+[2020-08-31T16:33:13.089] [INFO] default - -------------------------------------
+[2020-08-31T16:33:13.089] [INFO] default - /v1/auth/login
+[2020-08-31T16:33:13.089] [INFO] default - {}
+[2020-08-31T16:33:13.089] [INFO] default - {}
+[2020-08-31T16:33:13.102] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:33:13.102] [INFO] default - -------------------------------------
+[2020-08-31T16:33:13.150] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 60.761 ms - 270[0m
+[2020-08-31T16:38:50.318] [INFO] default - -------------------------------------
+[2020-08-31T16:38:50.318] [INFO] default - /v1/auth/login
+[2020-08-31T16:38:50.318] [INFO] default - {}
+[2020-08-31T16:38:50.318] [INFO] default - {}
+[2020-08-31T16:38:50.318] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:38:50.318] [INFO] default - -------------------------------------
+[2020-08-31T16:38:50.419] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 101.052 ms - 270[0m
+[2020-08-31T16:45:22.253] [INFO] default - -------------------------------------
+[2020-08-31T16:45:22.253] [INFO] default - /v1/auth/login
+[2020-08-31T16:45:22.253] [INFO] default - {}
+[2020-08-31T16:45:22.253] [INFO] default - {}
+[2020-08-31T16:45:22.254] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:45:22.254] [INFO] default - -------------------------------------
+[2020-08-31T16:45:22.442] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 187.886 ms - 270[0m
+[2020-08-31T16:47:57.855] [INFO] default - -------------------------------------
+[2020-08-31T16:47:57.855] [INFO] default - /v1/auth/login
+[2020-08-31T16:47:57.855] [INFO] default - {}
+[2020-08-31T16:47:57.855] [INFO] default - {}
+[2020-08-31T16:47:57.855] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:47:57.855] [INFO] default - -------------------------------------
+[2020-08-31T16:47:57.923] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 68.351 ms - 270[0m
+[2020-08-31T16:51:18.461] [INFO] default - -------------------------------------
+[2020-08-31T16:51:18.461] [INFO] default - /v1/auth/login
+[2020-08-31T16:51:18.461] [INFO] default - {}
+[2020-08-31T16:51:18.461] [INFO] default - {}
+[2020-08-31T16:51:18.461] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:51:18.461] [INFO] default - -------------------------------------
+[2020-08-31T16:51:18.533] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 72.243 ms - 270[0m
+[2020-08-31T16:52:00.209] [INFO] default - -------------------------------------
+[2020-08-31T16:52:00.209] [INFO] default - /v1/auth/login
+[2020-08-31T16:52:00.209] [INFO] default - {}
+[2020-08-31T16:52:00.209] [INFO] default - {}
+[2020-08-31T16:52:00.209] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:52:00.210] [INFO] default - -------------------------------------
+[2020-08-31T16:52:00.294] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 84.464 ms - 270[0m
+[2020-08-31T16:52:50.281] [INFO] default - -------------------------------------
+[2020-08-31T16:52:50.281] [INFO] default - /v1/auth/login
+[2020-08-31T16:52:50.281] [INFO] default - {}
+[2020-08-31T16:52:50.281] [INFO] default - {}
+[2020-08-31T16:52:50.281] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:52:50.281] [INFO] default - -------------------------------------
+[2020-08-31T16:52:50.350] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 69.459 ms - 270[0m
+[2020-08-31T16:59:21.386] [INFO] default - -------------------------------------
+[2020-08-31T16:59:21.386] [INFO] default - /v1/auth/login
+[2020-08-31T16:59:21.386] [INFO] default - {}
+[2020-08-31T16:59:21.386] [INFO] default - {}
+[2020-08-31T16:59:21.386] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T16:59:21.386] [INFO] default - -------------------------------------
+[2020-08-31T16:59:21.499] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 113.435 ms - 270[0m
+[2020-08-31T17:09:55.183] [INFO] default - -------------------------------------
+[2020-08-31T17:09:55.183] [INFO] default - /v1/auth/login
+[2020-08-31T17:09:55.183] [INFO] default - {}
+[2020-08-31T17:09:55.183] [INFO] default - {}
+[2020-08-31T17:09:55.183] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T17:09:55.183] [INFO] default - -------------------------------------
+[2020-08-31T17:09:55.440] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 256.515 ms - 270[0m
+[2020-08-31T17:10:48.014] [INFO] default - -------------------------------------
+[2020-08-31T17:10:48.014] [INFO] default - /v1/auth/login
+[2020-08-31T17:10:48.014] [INFO] default - {}
+[2020-08-31T17:10:48.014] [INFO] default - {}
+[2020-08-31T17:10:48.015] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T17:10:48.015] [INFO] default - -------------------------------------
+[2020-08-31T17:10:48.062] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 47.271 ms - 270[0m
+[2020-08-31T17:12:14.815] [INFO] default - -------------------------------------
+[2020-08-31T17:12:14.815] [INFO] default - /v1/auth/login
+[2020-08-31T17:12:14.815] [INFO] default - {}
+[2020-08-31T17:12:14.815] [INFO] default - {}
+[2020-08-31T17:12:14.815] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T17:12:14.821] [INFO] default - -------------------------------------
+[2020-08-31T17:12:14.900] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 85.337 ms - 270[0m
+[2020-08-31T18:28:59.177] [INFO] default - -------------------------------------
+[2020-08-31T18:28:59.178] [INFO] default - /v1/auth/login
+[2020-08-31T18:28:59.178] [INFO] default - {}
+[2020-08-31T18:28:59.182] [INFO] default - {}
+[2020-08-31T18:28:59.182] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T18:28:59.183] [INFO] default - -------------------------------------
+[2020-08-31T18:28:59.857] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 679.913 ms - 270[0m
+[2020-08-31T18:39:31.108] [INFO] default - -------------------------------------
+[2020-08-31T18:39:31.109] [INFO] default - /v1/auth/login
+[2020-08-31T18:39:31.109] [INFO] default - {}
+[2020-08-31T18:39:31.109] [INFO] default - {}
+[2020-08-31T18:39:31.109] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T18:39:31.109] [INFO] default - -------------------------------------
+[2020-08-31T18:39:31.434] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 325.795 ms - 270[0m
+[2020-08-31T18:50:01.575] [INFO] default - -------------------------------------
+[2020-08-31T18:50:01.576] [INFO] default - /v1/auth/login
+[2020-08-31T18:50:01.576] [INFO] default - {}
+[2020-08-31T18:50:01.576] [INFO] default - {}
+[2020-08-31T18:50:01.576] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-08-31T18:50:01.576] [INFO] default - -------------------------------------
+[2020-08-31T18:50:02.285] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 709.743 ms - 18[0m
+[2020-08-31T18:51:42.204] [INFO] default - -------------------------------------
+[2020-08-31T18:51:42.204] [INFO] default - /v1/auth/login
+[2020-08-31T18:51:42.204] [INFO] default - {}
+[2020-08-31T18:51:42.204] [INFO] default - {}
+[2020-08-31T18:51:42.204] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T18:51:42.204] [INFO] default - -------------------------------------
+[2020-08-31T18:51:42.409] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 205.075 ms - 270[0m
+[2020-08-31T18:51:54.865] [INFO] default - -------------------------------------
+[2020-08-31T18:51:54.865] [INFO] default - /v1/auth/login
+[2020-08-31T18:51:54.865] [INFO] default - {}
+[2020-08-31T18:51:54.865] [INFO] default - {}
+[2020-08-31T18:51:54.865] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T18:51:54.865] [INFO] default - -------------------------------------
+[2020-08-31T18:51:55.332] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 368.870 ms - 270[0m
+[2020-08-31T18:52:53.501] [INFO] default - -------------------------------------
+[2020-08-31T18:52:53.501] [INFO] default - /v1/auth/login
+[2020-08-31T18:52:53.501] [INFO] default - {}
+[2020-08-31T18:52:53.501] [INFO] default - {}
+[2020-08-31T18:52:53.501] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T18:52:53.501] [INFO] default - -------------------------------------
+[2020-08-31T18:52:53.601] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 100.478 ms - 270[0m
+[2020-08-31T18:53:46.149] [INFO] default - -------------------------------------
+[2020-08-31T18:53:46.149] [INFO] default - /v1/auth/login
+[2020-08-31T18:53:46.149] [INFO] default - {}
+[2020-08-31T18:53:46.149] [INFO] default - {}
+[2020-08-31T18:53:46.149] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T18:53:46.149] [INFO] default - -------------------------------------
+[2020-08-31T18:53:46.207] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 57.578 ms - 270[0m
+[2020-08-31T19:12:44.456] [INFO] default - -------------------------------------
+[2020-08-31T19:12:44.456] [INFO] default - /v1/auth/login
+[2020-08-31T19:12:44.456] [INFO] default - {}
+[2020-08-31T19:12:44.456] [INFO] default - {}
+[2020-08-31T19:12:44.457] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-08-31T19:12:44.457] [INFO] default - -------------------------------------
+[2020-08-31T19:12:44.531] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 75.354 ms - 18[0m
+[2020-08-31T19:16:27.829] [INFO] default - -------------------------------------
+[2020-08-31T19:16:27.829] [INFO] default - /v1/auth/login
+[2020-08-31T19:16:27.829] [INFO] default - {}
+[2020-08-31T19:16:27.829] [INFO] default - {}
+[2020-08-31T19:16:27.829] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-08-31T19:16:27.829] [INFO] default - -------------------------------------
+[2020-08-31T19:16:27.987] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 158.824 ms - 18[0m
+[2020-08-31T19:16:50.565] [INFO] default - -------------------------------------
+[2020-08-31T19:16:50.565] [INFO] default - /v1/auth/login
+[2020-08-31T19:16:50.566] [INFO] default - {}
+[2020-08-31T19:16:50.566] [INFO] default - {}
+[2020-08-31T19:16:50.566] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-08-31T19:16:50.566] [INFO] default - -------------------------------------
+[2020-08-31T19:16:50.576] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 10.290 ms - 18[0m
+[2020-08-31T19:17:40.477] [INFO] default - -------------------------------------
+[2020-08-31T19:17:40.478] [INFO] default - /v1/auth/login
+[2020-08-31T19:17:40.478] [INFO] default - {}
+[2020-08-31T19:17:40.478] [INFO] default - {}
+[2020-08-31T19:17:40.478] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-08-31T19:17:40.478] [INFO] default - -------------------------------------
+[2020-08-31T19:17:40.488] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 10.811 ms - 18[0m
+[2020-08-31T19:18:18.411] [INFO] default - -------------------------------------
+[2020-08-31T19:18:18.411] [INFO] default - /v1/auth/login
+[2020-08-31T19:18:18.411] [INFO] default - {}
+[2020-08-31T19:18:18.411] [INFO] default - {}
+[2020-08-31T19:18:18.411] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T19:18:18.411] [INFO] default - -------------------------------------
+[2020-08-31T19:18:18.742] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 330.279 ms - 270[0m
+[2020-08-31T19:18:35.763] [INFO] default - -------------------------------------
+[2020-08-31T19:18:35.763] [INFO] default - /v1/auth/login
+[2020-08-31T19:18:35.763] [INFO] default - {}
+[2020-08-31T19:18:35.763] [INFO] default - {}
+[2020-08-31T19:18:35.808] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T19:18:35.808] [INFO] default - -------------------------------------
+[2020-08-31T19:18:35.869] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 106.210 ms - 270[0m
+[2020-08-31T19:19:46.181] [INFO] default - -------------------------------------
+[2020-08-31T19:19:46.181] [INFO] default - /v1/auth/login
+[2020-08-31T19:19:46.182] [INFO] default - {}
+[2020-08-31T19:19:46.182] [INFO] default - {}
+[2020-08-31T19:19:46.182] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-08-31T19:19:46.182] [INFO] default - -------------------------------------
+[2020-08-31T19:19:46.184] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 2.316 ms - 18[0m
+[2020-08-31T19:59:55.550] [INFO] default - -------------------------------------
+[2020-08-31T19:59:55.554] [INFO] default - /v1/auth/login
+[2020-08-31T19:59:55.554] [INFO] default - {}
+[2020-08-31T19:59:55.554] [INFO] default - {}
+[2020-08-31T19:59:55.554] [INFO] default - {"email":"admin@cabbooking.com","password":"admin123"}
+[2020-08-31T19:59:55.554] [INFO] default - -------------------------------------
+[2020-08-31T19:59:55.947] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 397.668 ms - 270[0m
+[2020-09-01T17:24:17.306] [INFO] default - -------------------------------------
+[2020-09-01T17:24:17.871] [INFO] default - /v1/auth/login
+[2020-09-01T17:24:17.916] [INFO] default - {}
+[2020-09-01T17:24:17.916] [INFO] default - {}
+[2020-09-01T17:24:17.917] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-09-01T17:24:17.917] [INFO] default - -------------------------------------
+[2020-09-01T17:24:22.217] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 5097.740 ms - 18[0m
+[2020-09-01T22:17:01.398] [INFO] default - -------------------------------------
+[2020-09-01T22:17:02.163] [INFO] default - /v1/auth/login
+[2020-09-01T22:17:02.265] [INFO] default - {}
+[2020-09-01T22:17:02.265] [INFO] default - {}
+[2020-09-01T22:17:02.265] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-09-01T22:17:02.265] [INFO] default - -------------------------------------
+[2020-09-01T22:17:06.653] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 5271.195 ms - 18[0m
+[2020-09-01T22:20:10.925] [INFO] default - -------------------------------------
+[2020-09-01T22:20:10.943] [INFO] default - /v1/auth/login
+[2020-09-01T22:20:10.943] [INFO] default - {}
+[2020-09-01T22:20:10.944] [INFO] default - {}
+[2020-09-01T22:20:10.944] [INFO] default - {"email":"test@gmail.com","password":"test123"}
+[2020-09-01T22:20:10.944] [INFO] default - -------------------------------------
+[2020-09-01T22:20:11.428] [INFO] default - [0mPOST /v1/auth/login [32m200[0m 514.008 ms - 18[0m
